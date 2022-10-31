@@ -21,4 +21,4 @@ jobs:
           SOURCE: "./"
           REMOTE_HOST: "ec2-54-249-63-169.ap-northeast-1.compute.amazonaws.com"
           REMOTE_USER: "ubuntu"
-          TARGET: "/home/ubuntu"
+          TARGET: "/home/ubuntu/auto_deploy_test"
